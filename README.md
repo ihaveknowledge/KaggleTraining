@@ -8,3 +8,5 @@ We will use the knowledge held within the team as well as takig inspiration from
 ## Challenge 1: Titanic
 We will start here as a good entry level challenge. There is space for EDA and modelling as well as some feature engineering.
 
+## Challenge 2: TBC starting 23rd March 2023!
+
